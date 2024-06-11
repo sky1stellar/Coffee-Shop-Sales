@@ -46,6 +46,6 @@ Data Source - https://github.com/sky1stellar/Coffee-Shop-Sales/tree/main/data
 - Implement tooltips to display detailed metrics (Sales, Orders, Quantity) when hovering over a specific day-hour.
 
 ## Changing Data Types
-[changing data types](scripts/Changing Data Types.sql)
+- [changing data types]([scripts/Changing Data Types.sql](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/scripts/Changing%20Data%20Types.sql))
 
 
