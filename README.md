@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales-Database
+# Coffee-Shop-Sales-Analysis
 ## OverView
 This project involves creating and managing a database for a coffee shop's sales transactions, including data about sales, customers, and products.
 We have
