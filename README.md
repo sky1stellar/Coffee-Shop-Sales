@@ -47,6 +47,7 @@ Data Source - https://github.com/sky1stellar/Coffee-Shop-Sales/tree/main/data
 
 ## Data Cleaning
 - SQL Query: [Changing Data Types](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/scripts/Changing%20Data%20Types.sql)
+  
   ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%201.png)
 
 
