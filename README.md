@@ -1,7 +1,7 @@
 # Coffee-Shop-Sales-Database
 ## OverView
 This project involves creating and managing a database for a coffee shop's sales transactions, including data about sales, customers, and products.
-We havw
+We have
 - created a database
 - imported a raw file
 - cleaned the imported file
@@ -10,4 +10,5 @@ We havw
 - storing result
 - Preparing SQL documentation.
 
+data source[data/Coffe Shop Sales.xlsx]
   
