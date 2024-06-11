@@ -10,5 +10,5 @@ We have
 - storing result
 - Preparing SQL documentation.
 
-data source[data/Coffe Shop Sales.xlsx]
+data source[data]
   
