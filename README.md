@@ -10,5 +10,5 @@ We have
 - storing result
 - Preparing SQL documentation.
 
-data source[data]
+data source - https://github.com/sky1stellar/Coffee-Shop-Sales/tree/main/data
   
