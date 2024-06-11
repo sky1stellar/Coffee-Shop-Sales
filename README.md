@@ -45,7 +45,7 @@ Data Source - https://github.com/sky1stellar/Coffee-Shop-Sales/tree/main/data
 - Utilize a heat map to visualize sales patterns by days and hours.
 - Implement tooltips to display detailed metrics (Sales, Orders, Quantity) when hovering over a specific day-hour.
 
-## Changing Data Types
-- ([Changing Data Types](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/scripts/Changing%20Data%20Types.sql))
+## Data Cleaning
+- SQL Query: [Changing Data Types](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/scripts/Changing%20Data%20Types.sql)
 
 
