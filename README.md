@@ -50,4 +50,5 @@ Data Source - https://github.com/sky1stellar/Coffee-Shop-Sales/tree/main/data
   
   ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%201.png)
 
-
+### Total Sales
+- SQL Query : [click here](scripts/Total Sales.sql)
