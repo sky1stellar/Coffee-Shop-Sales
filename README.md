@@ -63,5 +63,5 @@ Data Source - https://github.com/sky1stellar/Coffee-Shop-Sales/tree/main/data
   ### Total Orders
 - SQL Query : [Click here](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/scripts/Total%20Orders.sql)
 
-![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%204.png)
+  ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%204.png)
   
