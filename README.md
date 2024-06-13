@@ -87,3 +87,10 @@ Data Source - https://github.com/sky1stellar/Coffee-Shop-Sales/tree/main/data
   - Displaying exact rounded of values
     
     ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%209.png)
+
+    ### Sales Trend Over Period
+  - SQL Query: [Click here](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/scripts/Sales%20Trend%20Over%20Period.sql)
+
+     ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%2011.png)
+    
+
