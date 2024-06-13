@@ -85,4 +85,5 @@ Data Source - https://github.com/sky1stellar/Coffee-Shop-Sales/tree/main/data
 
   ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%208.png)
   - Displaying exact rounded of values
+    
     ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%209.png)
