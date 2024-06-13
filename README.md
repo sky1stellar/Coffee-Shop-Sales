@@ -59,3 +59,9 @@ Data Source - https://github.com/sky1stellar/Coffee-Shop-Sales/tree/main/data
 - SQL Query: [Click here](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/scripts/Total%20Sales%20KPI%20-%20MOM%20Difference%20and%20MOM%20Growth.sql)
 
   ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%203.png)
+
+  ### Total Orders
+- SQL Query : [Click here](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/scripts/Total%20Orders.sql)
+
+![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%204.png)
+  
