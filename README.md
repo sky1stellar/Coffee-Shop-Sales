@@ -64,4 +64,18 @@ Data Source - https://github.com/sky1stellar/Coffee-Shop-Sales/tree/main/data
 - SQL Query : [Click here](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/scripts/Total%20Orders.sql)
 
   ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%204.png)
+
+### Total Orders KPI - Month on Month Difference and Month on Month Growth
+- SQL Query: [Click here](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/scripts/Total%20Orders%20KPI%20-%20MOM%20Difference%20and%20MOM%20Growth.sql)
+
+  ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%205.png)
   
+### Total Ouantity Sold
+- SQL Query : [Click here](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/scripts/Total%20Quantity%20Sold.sql)
+
+  ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%206.png)
+
+  ### Total Ouantity Sold KPI - Month on Month Difference and Month on Month Growth
+- SQL Query: [Click here](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/scripts/Total%20Quantity%20Sold%20Kpi%20-%20Mom%20Difference%20And%20Mom%20Growth.sql)
+
+  ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%207.png)
