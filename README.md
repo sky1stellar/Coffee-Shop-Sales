@@ -126,3 +126,13 @@ Data Source - https://github.com/sky1stellar/Coffee-Shop-Sales/tree/main/data
 
   ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%2020.png)
 
+  - To Get Sales From Monday To Sunday For Month Of May
+
+    ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%2021.png)
+
+    - To Get Sales For All Hours For Month Of May
+
+      ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%2022.png)
+
+
+
