@@ -101,3 +101,7 @@ Data Source - https://github.com/sky1stellar/Coffee-Shop-Sales/tree/main/data
    - Comparing Daily Sales With Average Sales – If Greater Than “Above Average” And Lesser Than “Below Average”
    ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%2014.png)    ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%2015.png)
 
+### Sales By Weekday / Weekend
+- SQL Query: [Click here](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/scripts/Sales%20By%20Weekday%20OR%20Weekend.sql)
+
+  ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%2016.png)
