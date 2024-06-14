@@ -120,3 +120,9 @@ Data Source - https://github.com/sky1stellar/Coffee-Shop-Sales/tree/main/data
 - SQL Query: [Click here](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/scripts/Sales%20By%20Products%20(Top%2010).sql)
 
   ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%2019.png)
+
+### Sales By Day / Hour
+- SQL Query: [Click here](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/scripts/Sales%20By%20Day%20%7C%20Hour.sql)
+
+  ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%2020.png)
+
