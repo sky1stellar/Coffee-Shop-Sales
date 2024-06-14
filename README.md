@@ -97,3 +97,7 @@ Data Source - https://github.com/sky1stellar/Coffee-Shop-Sales/tree/main/data
  - SQL Query: [Click here](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/scripts/Daily%20Sales%20For%20Month%20Selected.sql)
 
      ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%2012.png)    ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%2013.png)
+
+   -Comparing Daily Sales With Average Sales – If Greater Than “Above Average” And Lesser Than “Below Average”
+   ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%2014.png)    ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%2015.png)
+
