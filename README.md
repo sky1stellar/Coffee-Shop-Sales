@@ -111,3 +111,8 @@ Data Source - https://github.com/sky1stellar/Coffee-Shop-Sales/tree/main/data
 
   ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%2017.png)
 
+### Sales By Product Category
+- SQL Query: [Click here](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/scripts/Sales%20By%20Product%20Category.sql)
+
+  ![](https://github.com/sky1stellar/Coffee-Shop-Sales/blob/main/sql/Picture%2018.png)
+
